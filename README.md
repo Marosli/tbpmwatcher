@@ -12,3 +12,5 @@ If any of the resource rates fall below the defined thresholds, a popup window w
 Customization:
 You can customize the thresholds for Wood, Stone, and Iron rates by modifying the values of woodThreshold, stoneThreshold, and ironThreshold in the script.
 You can also customize the alert message in the openAlertWindow function to display a different message when a threshold is exceeded.
+![image](https://github.com/Marosli/tbpmwatcher/assets/100837716/60350a68-fca8-4d47-80c2-9625d02ef663)
+
